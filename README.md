@@ -1,0 +1,1 @@
+# Global-PIQA-Evaluating-Physical-Commonsense-Reasoning-Across-100-Languages-and-Cultures
